@@ -4,7 +4,7 @@ from openai import OpenAI
 # 1. Initialize the client
 client = OpenAI(
     base_url="https://integrate.api.nvidia.com/v1",
-    api_key="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"
+    api_key="yourapikey"
 )
 
 # 2. Define Iris's Identity
